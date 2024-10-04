@@ -6,5 +6,5 @@ Hey, I'm Sander, a Web Developer! You can read more about me on my webiste: **Co
 
 ### Github Stats 📊
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SanderHoudijk&border_radius=25&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak]([![GitHub Streak](https://streak-stats.demolab.com?user=SanderHoudijk&theme=dark&hide_border=true)](https://git.io/streak-stats))](https://git.io/streak-stats)
 
