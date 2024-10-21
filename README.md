@@ -17,5 +17,5 @@ More about me: [sanderhd.dev/en/about](https://sanderhd.dev/en/about)
 ###
 
 <div align="left">
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  https://skillicons.dev/icons?i=js,html,css,wasm
 </div>
