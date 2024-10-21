@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! I'm Sander</h2>
+<h1 align="center">Hi 👋! I'm Sander</h1>
 
 ###
 
-<p align="left">I'm Starting Stack Web Developer from The Netherlands</p>
+<p align="center">I'm Starting Stack Web Developer from The Netherlands</p>
 
 More about me: [sanderhd.dev/en/about](https://sanderhd.dev/en/about)
 
@@ -16,6 +16,6 @@ More about me: [sanderhd.dev/en/about](https://sanderhd.dev/en/about)
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,figma,blender,discordjs,vscode"/>
 </div>
