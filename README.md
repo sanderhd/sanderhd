@@ -17,5 +17,5 @@ More about me: [sanderhd.dev/en/about](https://sanderhd.dev/en/about)
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,wasm"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,figma,blender,discordjs,vscode"/>
 </div>
