@@ -4,7 +4,7 @@
 
 <p align="center">I'm Starting Stack Web Developer from The Netherlands</p>
 
-More about me: [sanderhd.dev/en/about](https://sanderhd.dev/en/about)
+<p align="center">More about me: [sanderhd.dev/en/about](https://sanderhd.dev/en/about)</p>
 
 ###
 
