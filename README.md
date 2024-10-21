@@ -3,7 +3,7 @@
 ###
 
 <p align="center">I'm Starting Stack Web Developer from The Netherlands <br>
-  More about me: [sanderhd.dev/en/about](https://sanderhd.dev/en/about)
+  More about me: [sanderhd.dev](https://sanderhd.dev)
 </p>
 
 
