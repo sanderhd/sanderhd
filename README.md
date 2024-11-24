@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I'm Starting Stack Web Developer from The Netherlands <br>
+<p align="center">I’m a 16-year-old beginner full-stack developer based in the Netherlands. <br>
   More about me: https://sanderhd.me/
 </p>
 
