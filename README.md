@@ -18,5 +18,5 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,php,mysql,figma,blender,discordjs,vscode"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php,mysql,figma,discordjs,vscode,visualstudio"/>
 </div>
