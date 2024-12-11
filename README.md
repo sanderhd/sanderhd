@@ -1,5 +1,5 @@
 <div align="center">
-# Hey 👋! I'm Sander!
+<h1>Hey 👋! I'm Sander!</h1>
 I’m a 16-year-old beginner full-stack developer from the Netherlands. 
 
 ## Tech Stack:
