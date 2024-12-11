@@ -10,5 +10,5 @@ I’m a 16-year-old beginner full-stack developer from the Netherlands.
 ## Discord Activity:
 [![Discord Presence](https://lanyard.cnrad.dev/api/1265737667975577721?bg=002A54&borderRadius=10&idleMessage=&theme=dark&showDisplayName=true)](https://discord.com/users/1265737667975577721)
 
----
+##
 [![](https://visitcount.itsvg.in/api?id=sanderhd&icon=0&color=12)](https://visitcount.itsvg.in)
