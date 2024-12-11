@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hey 👋! I'm Sander!
 I’m a 16-year-old beginner full-stack developer from the Netherlands. 
 
 ## Tech Stack:
