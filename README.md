@@ -1,3 +1,4 @@
+<div align="center">
 # Hey 👋! I'm Sander!
 I’m a 16-year-old beginner full-stack developer from the Netherlands. 
 
@@ -12,3 +13,4 @@ I’m a 16-year-old beginner full-stack developer from the Netherlands.
 
 ##
 [![](https://visitcount.itsvg.in/api?id=sanderhd&icon=0&color=12)](https://visitcount.itsvg.in)
+</div>
