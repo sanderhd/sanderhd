@@ -4,7 +4,7 @@
 <p>I’m a 16-year-old beginner full-stack developer from the Netherlands.</p> 
 
 <h2>Languages I use:</h2>
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php,md,mysql,discordjs,nodejs,figma,vscode,visualstudio"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,php,md,py,mysql,discordjs,nodejs,figma,vscode,visualstudio"/>
 
 <h2>Statistics:</h2> <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanderhd&theme=dark&hide_border=false"/>
