@@ -7,7 +7,7 @@
 </p>
 
 <p>
-    Working on <a href "https://github.com/sanderhd/giveawaybot">Giveawaybot</a>, a open source discord bot.
+    Working on <a href "https://github.com/sanderhd/GiveawayBot">Giveawaybot</a>, a open source discord bot.
 </p>
 
 <p>
