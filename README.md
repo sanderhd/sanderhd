@@ -15,7 +15,7 @@
     <a href="https://www.sanderhd.me">
         <img alt="GitHub followers" src="https://img.shields.io/badge/My-website-blue">
     </a>
-    <img alt="GitHub views" src="https://komarev.com/ghpvc/?username=sanderhd&label=PROFILE+VIEWS&color=blue">
+    <img alt="GitHub views" src="https://komarev.com/ghpvc/?username=sanderhd&label=Profile+views&color=blue">
 </p>
 
 <p>
