@@ -3,7 +3,7 @@
 <p style="max-width: 40rem">I'm currently a student in The Netherlands, and i like doing:</p>
 
 <p style="max-width: 40rem">
-<b>Bot Development, <br />Web Development, <br />Gaming, <br> and working on small or big projects</b>
+<b>Bot Development, <br />Web Development, <br> and working on small or big projects</b>
 </p>
 
 <p>
