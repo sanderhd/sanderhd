@@ -23,6 +23,10 @@
         <img alt="Skills" src="https://skillicons.dev/icons?i=html,css,tailwind,js,p5js,nodejs,php,mysql,md,discordjs,bots,figma,github,vscode,windows,vercel&perline=11">
     </a>
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <br>
 <br>
 <br>
