@@ -7,10 +7,6 @@
 </p>
 
 <p>
-    Working on <a href "https://github.com/sanderhd/GiveawayBot">Giveawaybot</a>, a open source discord bot.
-</p>
-
-<p>
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sanderhd">
     <a href="https://www.sanderhd.me">
         <img alt="GitHub followers" src="https://img.shields.io/badge/My-website-blue">
@@ -35,9 +31,4 @@ CSS          6 mins          █░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-<br>
-<br>
-<br>
-<p align="center" style="max-width: 50rem; font-style: italic;">check out my website 👉 <a href="https://www.sanderhd.me" target="_blank">sanderhd.me</a></p>
 </div>
