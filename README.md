@@ -1,5 +1,7 @@
 <div align="center">
 <h1>Hey there! I'm Sander 🦜</h1>
+<h2>Connect me via:</h2>
+    <a href="https://discord.com/users/1265737667975577721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1265737667975577721" height="30" width="40" /></a>
 <p style="max-width: 40rem">I'm currently a student in The Netherlands, and i like doing:</p>
 
 <p style="max-width: 40rem">
