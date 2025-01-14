@@ -17,7 +17,7 @@
 
 <p>
     <a href="https://sanderhd.me" target="_blank">
-        <img alt="Skills" src="https://skillicons.dev/icons?i=html,css,tailwind,js,p5js,nodejs,php,mysql,md,discordjs,bots,figma,github,vscode,windows,vercel&perline=11">
+        <img alt="Skills" src="https://skillicons.dev/icons?i=html,css,js,p5js,nodejs,php,mysql,md,discordjs,bots,figma,github,vscode,windows,vercel&perline=11">
     </a>
 </p>
 
