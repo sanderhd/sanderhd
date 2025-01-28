@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sander</h1>
 <h3 align="center">Experienced Web Developer specializing in PHP scripting, JavaScript, and SQL. Passionate about crafting immersive web experiences</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanderhd&label=Profile%20views&color=000000&style=flat" alt="sanderhd" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sanderhd&label=Profile%20views&color=000000&style=flat" alt="sanderhd" /> </p>
 
 - 🔭 Currently, I'm engaged in developing [Exos Solutions](https://discord.gg/2xa7EBASKt)
 
