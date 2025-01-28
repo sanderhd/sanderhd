@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanderhd&label=Profile%20views&color=000000&style=flat" alt="sanderhd" /> </p>
 
-- 🔭 Currently, I'm engaged in developing [Exos Solutions](https://discord.gg/2xa7EBASKt)
+- 🔭 Currently, I'm engaged in developing [qflw Solutions](https://discord.gg/2xa7EBASKt)
 
 - 🌱 I'm currently immersing myself in the worlds of **Laravel to deepen my understanding of  web development.**
 
