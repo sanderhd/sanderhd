@@ -7,7 +7,7 @@
 
 - 🌱 I'm currently immersing myself in the worlds of **Laravel to deepen my understanding of  web development.**
 
-- 💬 Feel free to inquire about anything related to **FiveM or web development.**
+- 💬 Feel free to inquire about anything related to **Bot or web development.**
 
 - 📫 You can easily reach me on discord **@qflw9**
 
