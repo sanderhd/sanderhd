@@ -3,11 +3,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanderhd&label=Profile%20views&color=000000&style=flat" alt="sanderhd" /> </p>
 
-- 🔭 Currently, I'm engaged in developing [qflw Solutions](https://discord.gg/2xa7EBASKt)
 
-- 🌱 I'm currently immersing myself in the worlds of **Laravel to deepen my understanding of  web development.**
+- 🌱 I'm currently immersing myself in the worlds of **Laravel & React to deepen my understanding of  web development.**
 
-- 💬 Feel free to inquire about anything related to **Bot or web development.**
+- 💬 Feel free to inquire about anything related to **web development.**
 
 - 📫 You can easily reach me on discord **@qflw9**
 
@@ -17,7 +16,7 @@
 </p>
 
 <h3 align="left">Skills:</h3>
-<img alt="Skills" src="https://skillicons.dev/icons?i=html,css,js,p5js,nodejs,php,mysql,md,discordjs,bots,figma,github,vscode,windows&perline=11">
+<img alt="Skills" src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,p5js,nodejs,php,mysql,md,discordjs,bots,figma,github,vscode,windows&perline=11">
 
 <!--START_SECTION:waka-->
 
