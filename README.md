@@ -1,31 +1,38 @@
-<h1 align="center">Hi 👋, I'm Sander</h1>
-<h3 align="center">Experienced Web Developer specializing in PHP, JavaScript, and SQL. Passionate about crafting immersive web experiences</h3>
+<h3 align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sanderhd&label=Profile%20views&color=000000&style=flat" alt="sanderhd" /> </p>
+  ![](https://capsule-render.vercel.app/api?type=waving&height=125&color=gradient&reversal=true&fontAlign=40)
+  
+  Hi, I am Sander
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+---
+<div align="center">
+  
+# 💫About Me :
+
+  💬 Ask me about for any help
+
+  📫 How to reach me:  
+  Send me a DM on Discord! *qflw9*
 
 
-- 🌱 I'm currently immersing myself in the worlds of **Laravel & React to deepen my understanding of  web development.**
+# 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-- 💬 Feel free to inquire about anything related to **web development.**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-- 📫 You can easily reach me on discord **@qflw9**
+---
+  ![](https://raw.githubusercontent.com/sanderhd/sanderhd/output/snake.svg)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.com/users/1265737667975577721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wsk" height="30" width="40" /></a>
-</p>
+  ![](https://capsule-render.vercel.app/api?type=waving&height=125&color=gradient&reversal=true&fontAlign=40&section=footer)
 
-<h3 align="left">Skills:</h3>
-<img alt="Skills" src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,p5js,nodejs,php,mysql,md,discordjs,bots,figma,github,vscode,windows&perline=11">
-
-<!--START_SECTION:waka-->
-
-```txt
-JavaScript   6 hrs 16 mins   ████████████████▒░░░░░░░░   64.82 %
-PHP          1 hr 20 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 %
-HTML         54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
-JSON         34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-Markdown     19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-```
-
-<!--END_SECTION:waka-->
+</div>
