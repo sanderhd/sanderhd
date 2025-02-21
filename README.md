@@ -30,7 +30,8 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-  ![](https://raw.githubusercontent.com/sanderhd/sanderhd/output/snake.svg)
+  ![Snake](https://raw.githubusercontent.com/sanderhd/sanderhd/output/snake.svg)
+  
 ---
 
   ![](https://capsule-render.vercel.app/api?type=waving&height=125&color=gradient&reversal=true&fontAlign=40&section=footer)
