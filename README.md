@@ -1,13 +1,11 @@
-<h1 align="center">
+<div align="center">
+  <h1 align="center">
 
   ![](https://capsule-render.vercel.app/api?type=waving&height=125&color=gradient&reversal=true&fontAlign=40)
   
   Hi, I am Sander
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-
----
-<div align="center">
   
 <h2>💫About Me:</h2>
 
@@ -29,12 +27,7 @@
 ![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
   ![Snake](https://raw.githubusercontent.com/sanderhd/sanderhd/output/snake.svg)
-  
----
-
   ![](https://capsule-render.vercel.app/api?type=waving&height=125&color=gradient&reversal=true&fontAlign=40&section=footer)
 
 </div>
