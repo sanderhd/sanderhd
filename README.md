@@ -6,8 +6,6 @@
   Hi, I am Sander
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-  
-<h2>💫About Me:</h2>
 
   ℹ️ I'm a 16 year old Student Software Development. 
 
