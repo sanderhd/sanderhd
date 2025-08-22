@@ -1,42 +1,54 @@
-<img src="./src/banner.png" style="box-shadow: 3px 3px 10px #00000035">
-<br/>
-
-# Hey There, I'm Sander!
-
-<a href="https://discordapp.com/users/1265737667975577721" target="_blank"><img class="icon" align="left" alt="Discord" width="30px" src="./src/icons/discord.svg" style="margin-right: 10px;" /></a>
-<a href="https://github.com/sanderhd" target="_blank"><img class="icon" align="left" alt="Github" width="30px" src="./src/icons/github.svg" style="margin-right: 10px;" /></a>
-
-<br />
-<br />
-
-### Languages and Tools
-
-<div>
-  <a href="https://html.com" target="_blank"><img class="icon" align="left" alt="HTML" width="32px" src="./src/icons/html.svg" style="margin-right: 10px;" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img class="icon" align="left" alt="CSS" width="32px" src="./src/icons/css.svg" style="margin-right: 10px;" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img class="icon" align="left" alt="Tailwind CSS" width="32px" src="./src/icons/tailwindcss.svg" style="margin-right: 10px;" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img class="icon" align="left" alt="JavaScript" width="32px" src="./src/icons/javascript.svg" style="margin-right: 10px;" /></a>
-  <a href="https://react.dev/" target="_blank"><img class="icon" align="left" alt="React" width="32px" src="./src/icons/react.svg" style="margin-right: 10px;" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img class="icon" align="left" alt="Node.js" width="32px" src="./src/icons/nodejs.svg" style="margin-right: 10px;" /></a>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sanderhd.sanderhd&"  />
 </div>
 
-<br />
-<br />
+###
 
-### Softwares
+<h1 align="center">Hey 👋 What's up?</h1>
 
-<div>
-  <a href="https://code.visualstudio.com/" target="_blank"><img class="icon" align="left" alt="Visual Studio Code" width="32px" src="./src/icons/vscode.svg" style="margin-right: 10px;" /></a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank"><img class="icon" align="left" alt="IntelliJ IDEA" width="32px" src="./src/icons/phpstorm.svg" style="margin-right: 10px;" /></a>
+###
+
+<br clear="both">
+
+<p align="center">My name is Sander and I'm a Software Developer, from The Netherlands 🇳🇱</p>
+
+###
+
+<h2 align="left"></h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
-<br />
-<br />
+###
 
-<div class="container">
-  <br/>
-  <a href="https://github.com/sanderhd">
-    <img align= "center" src="https://github-readme-stats.vercel.app/api?username=sanderhd&count_private=true&cache_seconds=7200&border_radius=10px&show_icons=true&bg_color=1C2128&text_color=adbac7&border_color=cdd9e51a"/>
-  </a>
-  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanderhd&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=sanderhd&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<h2 align="left"></h2>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanderhd/sanderhd/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanderhd/sanderhd/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sanderhd/sanderhd/output/pacman-contribution-graph.svg">
+</picture>
+
+###
