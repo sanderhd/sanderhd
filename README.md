@@ -2,7 +2,7 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=sanderhd&label=Profile%20views&color=020618&style=flat)](https://github.com/sanderhd)
 
-I'm Sander, a 17 year old developer from The Netherlands 🇳🇱.
+I'm Sander, a 17 year old full-stack web developer from The Netherlands 🇳🇱, passionate about building beautiful and performant websites and applications.
 
 I'm currently studying Software Development and I like:
 - Web Development
