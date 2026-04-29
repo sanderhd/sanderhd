@@ -6,8 +6,9 @@ I'm Sander, a 17 year old full-stack web developer from The Netherlands 🇳🇱
 
 I'm currently studying Software Development and I like:
 - Web Development
-- Playing with Python
 - Home Labbing 
+
+oh and check out my portfolio at https://sander.tf/
 
 #### `🛠️` Technologies
 
