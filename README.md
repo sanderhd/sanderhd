@@ -32,11 +32,7 @@ oh and check out my portfolio at https://sander.tf/
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          1 hr 33 mins          ████████████▒░░░░░░░░░░░░   49.45 %
-SCSS         44 mins               █████▓░░░░░░░░░░░░░░░░░░░   23.31 %
-Other        15 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
-Git Config   14 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
-SQL          9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
