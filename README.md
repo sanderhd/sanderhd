@@ -32,7 +32,11 @@ oh and check out my portfolio at https://sander.tf/
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   1 hr 34 mins          ███████▒░░░░░░░░░░░░░░░░░   29.10 %
+PHP          1 hr 32 mins          ███████▒░░░░░░░░░░░░░░░░░   28.68 %
+SCSS         52 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.26 %
+Markdown     17 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+JSON         17 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
 ```
 
 <!--END_SECTION:waka-->
