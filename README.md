@@ -32,10 +32,7 @@ oh and check out my portfolio at https://sander.tf/
 <!--START_SECTION:waka-->
 
 ```txt
-Git Config   32 mins               █████████████████████░░░░   84.00 %
-JSON         5 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 %
-Roff         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-PHP          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
