@@ -32,7 +32,11 @@ oh and check out my portfolio at https://sander.tf/
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JSON         28 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.24 %
+JavaScript   22 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
+Bash         19 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
+TypeScript   18 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
+Text         11 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
 ```
 
 <!--END_SECTION:waka-->
