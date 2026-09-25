@@ -32,11 +32,11 @@ oh and check out my portfolio at https://sander.tf/
 <!--START_SECTION:waka-->
 
 ```txt
-PHP                    152 hrs 14 mins       ████████▓░░░░░░░░░░░░░░░░   34.93 %
-JavaScript             68 hrs 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
-HTML                   37 hrs 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
+PHP                    152 hrs 14 mins       ████████▓░░░░░░░░░░░░░░░░   34.91 %
+JavaScript             68 hrs 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.64 %
+HTML                   37 hrs 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
 SCSS                   32 hrs 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
-TypeScript             28 hrs 33 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+TypeScript             28 hrs 39 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
 ```
 
 <!--END_SECTION:waka-->
