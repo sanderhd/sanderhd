@@ -1,42 +1,39 @@
-## `👋` Hi there!
+<div align="center">
 
-[![Profile views](https://komarev.com/ghpvc/?username=sanderhd&label=Profile%20views&color=020618&style=flat)](https://github.com/sanderhd)
+# Hey, I'm Sander 👋
 
-I'm Sander, a 17 year old full-stack web developer from The Netherlands 🇳🇱, passionate about building beautiful and performant websites and applications.
+**18 y/o developer from the Netherlands 🇳🇱** · Software Development student  
+I build fast, clean websites & tools, and run my own homelab 🖥️
 
-I'm currently studying Software Development and I like:
-- Web Development
-- Home Labbing 
+[![Portfolio](https://img.shields.io/badge/sander.tf-020618?style=flat&logo=googlechrome&logoColor=white)](https://sander.tf/)
+[![Profile views](https://komarev.com/ghpvc/?username=sanderhd&label=views&color=020618&style=flat)](https://github.com/sanderhd)
 
-oh and check out my portfolio at https://sander.tf/
+</div>
 
-#### `🛠️` Technologies
+---
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-C6538C?style=for-the-badge&logo=sass&logoColor=white)
+### ⚡ What I'm into
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- 🔐 **Cyber Security** - learning how things break (and how to fix them)
+- 🌐 **Web Development** - from wordpress to next.js
+- 🛠️ **Tool Development** - building stuff that makes my own life easier
+- 🏠 **Home Labbing** - self-hosting everything for `sander.tf`
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+### 🛠️ Stack
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-f48120?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f14e32?style=for-the-badge&logo=git&logoColor=white)
+**Frontend**  
+[![Frontend](https://skillicons.dev/icons?i=html,css,sass,js,react,nextjs,tailwind)](https://skillicons.dev)
 
-#### `🧑‍💻` This week:
-<!--START_SECTION:waka-->
+**Backend & Data**  
+[![Backend](https://skillicons.dev/icons?i=php,py,wordpress,mysql,sqlite)](https://skillicons.dev)
 
-```txt
-PHP                    152 hrs 14 mins       ████████▓░░░░░░░░░░░░░░░░   34.91 %
-JavaScript             68 hrs 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.64 %
-HTML                   37 hrs 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
-SCSS                   32 hrs 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
-TypeScript             28 hrs 39 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
-```
+**Infra & Tools**  
+[![Infra](https://skillicons.dev/icons?i=linux,debian,cloudflare,vercel,git,githubactions)](https://skillicons.dev)
 
-<!--END_SECTION:waka-->
+### 📊 Stats
+
+<div align="center">
+
+<img height="160" src="https://streak-stats.demolab.com?user=sanderhd&theme=onedark-duo&hide_border=true)](https://git.io/streak-stats" />
+
+</div>
