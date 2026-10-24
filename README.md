@@ -14,6 +14,7 @@ I build fast, clean websites & tools, and run my own homelab 🖥️
 </div>
 
 ---
+<div align="center">
 
 ### ⚡ What I'm into
 
@@ -25,17 +26,15 @@ I build fast, clean websites & tools, and run my own homelab 🖥️
 ### 🛠️ Stack
 
 **Frontend**  
-[![Frontend](https://skillicons.dev/icons?i=html,css,sass,js,react,nextjs,tailwind)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,sass,js,react,nextjs,vue,tailwind&theme=dark)](https://skillicons.dev)
 
 **Backend & Data**  
-[![Backend](https://skillicons.dev/icons?i=php,py,wordpress,mysql,sqlite)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=php,py,wordpress,mysql,sqlite&theme=dark)](https://skillicons.dev)
 
 **Infra & Tools**  
-[![Infra](https://skillicons.dev/icons?i=linux,debian,cloudflare,vercel,git,githubactions)](https://skillicons.dev)
+[![Infra](https://skillicons.dev/icons?i=linux,debian,docker,cloudflare,vercel,git&theme=dark)](https://skillicons.dev)
 
 ### 📊 Stats
-
-<div align="center">
 
 <img height="160" src="https://streak-stats.demolab.com?user=sanderhd&theme=onedark-duo&hide_border=true)](https://git.io/streak-stats" />
 
