@@ -26,7 +26,7 @@ I build fast, clean websites & tools, and run my own homelab 🖥️
 ### 🛠️ Stack
 
 **Frontend**  
-[![Frontend](https://skillicons.dev/icons?i=html,css,sass,js,react,nextjs,vue,tailwind&theme=dark)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,sass,js,react,nextjs,vue&theme=dark)](https://skillicons.dev)
 
 **Backend & Data**  
 [![Backend](https://skillicons.dev/icons?i=php,py,wordpress,mysql,sqlite&theme=dark)](https://skillicons.dev)
