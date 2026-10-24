@@ -7,6 +7,9 @@ I build fast, clean websites & tools, and run my own homelab 🖥️
 
 [![Portfolio](https://img.shields.io/badge/sander.tf-020618?style=flat&logo=googlechrome&logoColor=white)](https://sander.tf/)
 [![Profile views](https://komarev.com/ghpvc/?username=sanderhd&label=views&color=020618&style=flat)](https://github.com/sanderhd)
+[![Followers](https://img.shields.io/github/followers/sanderhd?label=followers&style=flat&logo=github&logoColor=white&labelColor=020618&color=020618)](https://github.com/sanderhd?tab=followers)
+[![Stars](https://img.shields.io/github/stars/sanderhd?label=stars&style=flat&logo=github&logoColor=white&labelColor=020618&color=020618)](https://github.com/sanderhd?tab=stars)
+[![Location](https://img.shields.io/badge/Netherlands-020618?style=flat&logo=googlemaps&logoColor=white)](https://github.com/sanderhd)
 
 </div>
 
