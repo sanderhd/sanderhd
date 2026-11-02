@@ -36,6 +36,6 @@ I build fast, clean websites & tools, and run my own homelab 🖥️
 
 ### 📊 Stats
 
-<img height="160" src="https://streak-stats.demolab.com?user=sanderhd&theme=onedark-duo&hide_border=true)](https://git.io/streak-stats" />
+<img src="https://raw.githubusercontent.com/sanderhd/sanderhd/main/github-metrics.svg" alt="GitHub metrics" />
 
 </div>
